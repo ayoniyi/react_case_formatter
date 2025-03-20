@@ -223,6 +223,6 @@ function MyComponent() {
 }
 ```
 
-## License
+## Authors
 
-MIT
+- Ayo Niyi [@ayoniyi](https://github.com/ayoniyi)
