@@ -43,10 +43,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/react-case-formatter.git"
+    "url": "git+https://github.com/ayoniyi/react_case_formatter"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/react-case-formatter/issues"
+    "url": "https://github.com/ayoniyi/react_case_formatter/issues"
   },
-  "homepage": "https://github.com/yourusername/react-case-formatter#readme"
+  "homepage": "https://github.com/ayoniyi/react_case_formatter#readme"
 }
