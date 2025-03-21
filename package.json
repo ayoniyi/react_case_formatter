@@ -24,7 +24,7 @@
     "format",
     "utilities"
   ],
-  "author": "",
+  "author": "ayoniyi",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.8.0",
